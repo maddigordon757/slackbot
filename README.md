@@ -29,10 +29,12 @@ You'll see some start up output and a prompt:
 
 Then you can interact with MLG Bot by typing `JSD 9` + any of the following: lessons, homework, resources, projects, exit ticket, snack signup, website, and github repo. It will also reply to thank you and you rock..
 
-    MLG Bot> MLG Bot help
-    MLG Bot animate me <query> - The same thing as `image me`, except adds [snip]
-    MLG Bot help - Displays all of the help commands that MLG Bot knows about.
-    ...
+Command> JSD 9 Resources
+MLGbot> Here you go: ...
+Command> thank you
+MLGbot>No Problem!
+Command>you rock
+MLGbot> I try
 
 ### Configuration
 
